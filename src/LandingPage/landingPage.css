@@ -1,0 +1,57 @@
+.LandingPage-heading{
+    margin-top: 96px !important;
+}
+
+.LandingPage-heading p{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    text-align: center;
+    color: #240D57;
+}
+
+.LandingPage-heading span{
+    background: linear-gradient(90deg, #8456EC 24.2%, #E87BF8 120.46%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    line-height: 41px;
+}
+
+.LandingPage-eventHostText{
+    margin-top: 16px !important;
+}
+
+.LandingPage-eventHostText p{
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color: #4F4F4F;
+}
+
+.LandingPage-image{
+    margin-top: 36px !important;
+}
+
+.LandingPage-button{
+    margin-top: 34px !important;
+}
+.LandingPage-button button, .LandingPage-button button:active, .LandingPage-button button:visited{
+    padding: 20px 9px;
+    gap: 10px;
+    background: linear-gradient(90deg, #8456EC 3.25%, #E87BF8 100%);
+    border-radius: 10px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF !important;
+}
